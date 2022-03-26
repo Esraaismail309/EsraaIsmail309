@@ -1,27 +1,11 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-9016
-Fork on GitHub
-2024
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-markdown
+<div align="center">
 <h1 align="center">Hi 👋, I'm Esraa Ismail</h1>
-<h3 align="center">A passionate frontend developer :detective: from Egypt :camel: https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg</h3>
+<h3 align="center">A passionate frontend developer :detective: from Egypt :camel: </h3>
+<img  style="width:60%; margin-top:1.5rem; " src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"/></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esraaismail&label=Profile%20views&color=0e75b6&style=flat" alt="esraaismail" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esraaismail" alt="esraaismail" /></a> </p>
-
-- 🔭 I’m currently working on **route Academy**
+- 🔭 I’m currently working on **Route Academy**
 
 - 🌱 I’m currently learning **JavaScript with a big interest in Frontend Frameworks**
 
@@ -31,7 +15,8 @@ markdown
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/esraaismail/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esraaismail/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/esraaismail/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esraaismail/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,28 +25,3 @@ markdown
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esraaismail&show_icons=true&locale=en&layout=compact" alt="esraaismail" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esraaismail&show_icons=true&locale=en" alt="esraaismail" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
